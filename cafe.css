@@ -10,6 +10,7 @@
     background-size: cover;
     background-position: center;
     position: relative;
+    overflow: hidden;
 }
     .sb h1 {
         width: 40%;
@@ -169,6 +170,7 @@
     background-size: cover;
     background-position: center;
     position: relative;
+    overflow: hidden;
 }
 
 .cs h1 {
@@ -216,6 +218,7 @@
     background-size: cover;
     background-position: center;
     position: relative;
+    overflow: hidden;
 }
 
     .kc h1 {
@@ -264,6 +267,7 @@
     background-size: cover;
     background-position: center;
     position: relative;
+    overflow: hidden;
 }
 
     .lpc h1 {
@@ -311,6 +315,7 @@
     background-size: cover;
     background-position: center;
     position: relative;
+    overflow: hidden;
 }
 
     .t h1 {
@@ -360,6 +365,7 @@
     background-size: cover;
     background-position: center;
     position: relative;
+    overflow: hidden;
 }
 
     .ls h1 {
@@ -408,6 +414,7 @@
     background-size: cover;
     background-position: center;
     position: relative;
+    overflow: hidden;
 }
 
     .sa h1 {
@@ -456,6 +463,7 @@
     background-size: cover;
     background-position: center;
     position: relative;
+    overflow: hidden;
 }
 
     .ts h1 {
@@ -503,6 +511,7 @@
     background-size: cover;
     background-position: center;
     position: relative;
+    overflow: hidden;
 }
 
     .ds h1 {
@@ -550,6 +559,7 @@
     background-size: cover;
     background-position: center;
     position: relative;
+    overflow: hidden;
 }
 
     .b h1 {
